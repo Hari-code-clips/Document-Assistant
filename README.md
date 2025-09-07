@@ -1,1 +1,5 @@
-# Document-Assistant
+Problem Statement:
+
+Professionals, researchers, and students often work with large and complex documents such as reports, policies, contracts, and academic papers. Navigating these documents to extract relevant information is time-consuming and inefficient. Traditional search functions provide only keyword matches without context, forcing users to manually sift through pages. Moreover, when multiple documents are involved, comparing information across sources becomes even more challenging. Accessibility is another barrier, as many users prefer voice-based interactions or require audio assistance.
+
+This project addresses these challenges by building an AI-powered Document Q&A Assistant that allows users to upload one or more documents, ask natural language questions, and receive contextual answers with precise citations. The system leverages LLM-powered Retrieval-Augmented Generation (RAG) with LangChain to provide accurate answers, supports multi-document cross-referencing, and enhances usability with voice input/output and exportable conversation history.
